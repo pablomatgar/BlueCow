@@ -1,4 +1,4 @@
-//Pablo Mateos García & Samuel Martín Santos
+//Pablo Mateos García
 package bluecow;
 import java.io.*;  
 import java.util.ArrayList;
