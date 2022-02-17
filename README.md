@@ -1,6 +1,6 @@
 # BlueCow problem (The ‘Round the World Challenge’)
 
-Solution (algorithm) developed by myself for the Traveler Salesman Problem. This was the final assignment of the module COM627 - Computability and Optimisation in Wrexham Glyndŵr University (United Kingdom).
+Solution (algorithm) developed by myself using Java for the Traveler Salesman Problem. This was the final assignment of the module COM627 - Computability and Optimisation in Wrexham Glyndŵr University (United Kingdom).
 
 ### Overview: The ‘Round the World Challenge’
 The energy drink company, Blue Cow, is organising a round-the world aeroplane race. Any country’s capital can bid to be one of the stage points around the tour; most do. So Blue Cow will have well over 100 offers of money but they can’t take all of them. They need optimisation software, which will find the tour that maximises their income – subject to the following restrictions:
